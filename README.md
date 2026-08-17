@@ -111,11 +111,9 @@ I use GitHub to document my projects, experiment with new technologies, and buil
 
 ## 🤝 Let's Connect
 
-**GitHub:** [Your GitHub Profile](YOUR_GITHUB_URL)
+**LinkedIn:** www.linkedin.com/in/ayush-negi-exe
 
-**LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-
-**Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+**Email:** mailto:ayushnegiexe@gmail.com
 
 ---
 
