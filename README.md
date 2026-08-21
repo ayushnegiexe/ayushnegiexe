@@ -1,70 +1,64 @@
-<!-- Banner -->
+<!-- Minimal Dark Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Ayush Negi Banner" width="100%">
+  <img src="https://copilot.microsoft.com/th/id/BCO.21b987d2-93b8-4d83-9b1c-87a980e5e642.png" alt="Ayush Negi Banner" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Ayush Negi 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI & Software Engineering</h3>
 
 <p align="center">
-  <em>I build full-stack web applications and AI-powered software with a focus on practical functionality, clean architecture, and solving real problems.</em>
+  <em>I build full-stack web applications and AI-powered software with clean architecture and real-world impact.</em>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`JavaScript` · `TypeScript` · `Java` · `Python`
-
-**Frontend**  
-`React.js` · `HTML5` · `CSS3`
-
-**Backend**  
-`Node.js` · `Express.js` · `REST APIs`
-
-**Databases**  
-`MongoDB` · `SQL`
-
-**AI / ML**  
-`Python` · `AI APIs` · `LLM Apps` · `Prompt Engineering`
-
-**Tools**  
-`Git` · `GitHub` · `VS Code` · `Postman`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,python,express,mongodb,postgres,git,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
-A full-stack application that analyzes resumes against job descriptions.  
+<details>
+<summary>🤖 AI Resume Analyzer</summary>
+
+A full-stack application that analyzes resumes against job descriptions.
+
 - Extracts and processes resume content  
-- Compares skills & keywords  
+- Compares skills and keywords  
 - Generates compatibility score  
-- Identifies missing or relevant skills  
 - Provides AI improvement suggestions  
-**Tech:** React.js · Node.js · AI · REST APIs  
 
----
+**Tech:** React.js · Node.js · AI · REST APIs
+</details>
 
-### 🎫 AI Ticket Assistant
-AI-powered support ticket management with intelligent ticket processing.  
-- Creates & manages support tickets  
-- Classifies incoming issues  
-- Determines ticket priority  
-- Uses AI to analyze ticket content  
-- Generates relevant responses  
-**Tech:** React.js · Node.js · AI · Database  
+<details>
+<summary>🎫 AI Ticket Assistant</summary>
 
----
+AI-powered support ticket management system.
 
-### 📚 Lexical Analyzer
-Academic compiler-design project built using Lex.  
-- Recognizes tokens using patterns  
-- Handles lexical errors  
-- Supports keywords, operators, identifiers, literals & delimiters  
+- Creates and manages support tickets  
+- Classifies issues & determines priority  
+- AI-assisted response generation  
+- Centralized interface for tracking tickets  
+
+**Tech:** React.js · Node.js · AI · REST APIs · Database
+</details>
+
+<details>
+<summary>📚 Lexical Analyzer</summary>
+
+Academic compiler-design project using Lex.
+
+- Recognizes keywords, identifiers, operators, literals  
+- Handles invalid input and lexical errors  
 - Generates tokens for compiler stages  
-**Tech:** Lex · Compiler Design  
+
+**Tech:** Lex · Compiler Design
+</details>
 
 ---
 
@@ -76,8 +70,7 @@ Academic compiler-design project built using Lex.
 - Database-Driven Applications  
 - Problem Solving & Algorithms  
 - Compiler & Language Concepts  
-- Clean Architecture  
-- System Design  
+- Clean Architecture & System Design  
 
 ---
 
@@ -91,6 +84,19 @@ Academic compiler-design project built using Lex.
 | Java & DSA | 70% |
 | AI Application Development | 70% |
 | System Design & Engineering | 65% |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushnegiexe&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnegiexe&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushnegiexe&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
