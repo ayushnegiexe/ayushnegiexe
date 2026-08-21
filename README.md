@@ -1,35 +1,35 @@
-<!-- Minimal Portfolio Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Ayush Negi Portfolio Banner" width="100%">
+  <img src="./assets/banner.png" alt="Ayush Negi Banner" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Ayush Negi 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI & Software Engineering</h3>
 
 <p align="center">
-  <em>I build full-stack web applications and AI-powered software with clean architecture and real-world impact.</em>
+  <em>I build full-stack web applications and AI-powered software with a focus on practical functionality, clean architecture, and solving real problems.</em>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+**Languages**  
 `JavaScript` · `TypeScript` · `Java` · `Python`
 
-**Frontend:**  
+**Frontend**  
 `React.js` · `HTML5` · `CSS3`
 
-**Backend:**  
+**Backend**  
 `Node.js` · `Express.js` · `REST APIs`
 
-**Databases:**  
+**Databases**  
 `MongoDB` · `SQL`
 
-**AI / Machine Learning:**  
-`Python` · `AI APIs` · `LLM Applications` · `Prompt Engineering`
+**AI / ML**  
+`Python` · `AI APIs` · `LLM Apps` · `Prompt Engineering`
 
-**Tools & Technologies:**  
+**Tools**  
 `Git` · `GitHub` · `VS Code` · `Postman`
 
 ---
@@ -39,11 +39,13 @@
 ### 🤖 AI Resume Analyzer
 A full-stack application that analyzes resumes against job descriptions.  
 - Extracts and processes resume content  
-- Compares skills and keywords  
+- Compares skills & keywords  
 - Generates compatibility score  
 - Identifies missing or relevant skills  
 - Provides AI improvement suggestions  
-**Tech:** React.js · Node.js · AI · REST APIs
+**Tech:** React.js · Node.js · AI · REST APIs  
+
+---
 
 ### 🎫 AI Ticket Assistant
 AI-powered support ticket management with intelligent ticket processing.  
@@ -52,7 +54,9 @@ AI-powered support ticket management with intelligent ticket processing.
 - Determines ticket priority  
 - Uses AI to analyze ticket content  
 - Generates relevant responses  
-**Tech:** React.js · Node.js · AI · REST APIs · Database
+**Tech:** React.js · Node.js · AI · Database  
+
+---
 
 ### 📚 Lexical Analyzer
 Academic compiler-design project built using Lex.  
@@ -60,7 +64,7 @@ Academic compiler-design project built using Lex.
 - Handles lexical errors  
 - Supports keywords, operators, identifiers, literals & delimiters  
 - Generates tokens for compiler stages  
-**Tech:** Lex · Compiler Design
+**Tech:** Lex · Compiler Design  
 
 ---
 
@@ -72,18 +76,20 @@ Academic compiler-design project built using Lex.
 - Database-Driven Applications  
 - Problem Solving & Algorithms  
 - Compiler & Language Concepts  
-- Clean Architecture & System Design
+- Clean Architecture  
+- System Design  
 
 ---
 
 ## 📈 Currently Improving
+
 | Skill | Progress |
 |-------|-----------|
 | Advanced JavaScript & TypeScript | 85% |
 | React Architecture | 80% |
 | Backend Development (Node.js) | 75% |
-| Java & DSA | 79% |
-| AI Application Development | 80% |
+| Java & DSA | 70% |
+| AI Application Development | 70% |
 | System Design & Engineering | 65% |
 
 ---
