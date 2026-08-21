@@ -1,120 +1,77 @@
-# Hey, I'm Ayush Negi 👋
+<!-- Minimalistic Header Banner -->
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.a1e02255-12ff-44ab-a21e-8be3790a1aee.png" alt="Ayush Negi GitHub Banner" width="100%">
+</p>
 
-### Full-Stack Developer | AI & Software Engineering
+<h1 align="center">Hey, I'm Ayush Negi 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI & Software Engineering</h3>
 
-I build **full-stack web applications and AI-powered software** with a focus on practical functionality, clean architecture, and solving real problems.
-
-I work primarily with **JavaScript/TypeScript, React, Node.js, Java, Python, and AI technologies**, and I'm continuously improving my understanding of software engineering and backend development.
+<p align="center">
+  <em>I build full-stack web applications and AI-powered software with clean architecture and real-world impact.</em>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-`JavaScript` `TypeScript` `Java` `Python`
-
-### Frontend
-
-`React.js` `HTML5` `CSS3`
-
-### Backend
-
-`Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MongoDB` `SQL`
-
-### AI / Machine Learning
-
-`Python` `AI APIs` `LLM Applications` `Prompt Engineering`
-
-### Tools & Technologies
-
-`Git` `GitHub` `VS Code` `Postman`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,python,express,mongodb,postgres,git,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Resume Analyzer
-
-A full-stack application that analyzes resumes against job descriptions.
-
-* Extracts and processes resume content
-* Compares skills and keywords with job requirements
-* Generates a compatibility score
-* Identifies missing or relevant skills
-* Provides AI-generated improvement suggestions
-
+A full-stack app that analyzes resumes against job descriptions.
+- Extracts and processes resume content  
+- Compares skills and keywords  
+- Generates compatibility score & improvement suggestions  
 **Tech:** React.js · Node.js · AI · REST APIs
 
----
-
 ### 🎫 AI Ticket Assistant
-
-A full-stack support ticket management application with AI-assisted ticket processing.
-
-* Creates and manages support tickets
-* Classifies incoming issues
-* Determines ticket priority
-* Uses AI to analyze ticket content
-* Generates relevant responses and assistance
-* Provides a centralized interface for tracking tickets
-
+AI-powered support ticket management system.
+- Classifies issues & determines priority  
+- Generates AI-assisted responses  
+- Centralized tracking interface  
 **Tech:** React.js · Node.js · AI · REST APIs · Database
 
----
-
 ### 📚 Lexical Analyzer
-
-An academic compiler-design project built using Lex.
-
-* Recognizes keywords, identifiers, operators, literals, and delimiters
-* Uses pattern-based token recognition
-* Handles invalid input and lexical errors
-* Generates tokens for subsequent compiler stages
-
+Academic compiler-design project using Lex.
+- Recognizes tokens and handles lexical errors  
+- Generates tokens for compiler stages  
 **Tech:** Lex · Compiler Design
 
 ---
 
-## 💻 What I Work On
+## 📊 GitHub Stats
 
-* Full-stack web development
-* REST API development
-* AI-powered applications
-* Backend systems
-* Database-driven applications
-* Problem solving and algorithms
-* Compiler and programming language concepts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushnegiexe&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnegiexe&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushnegiexe&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
 ## 📌 Currently Improving
-
-* Advanced JavaScript & TypeScript
-* React architecture
-* Backend development with Node.js
-* Java and data structures & algorithms
-* AI application development
-* System design and software engineering
+- Advanced JavaScript & TypeScript  
+- React architecture & backend systems  
+- AI application development  
+- System design & software engineering  
 
 ---
 
-## 📊 GitHub
+## 🤝 Connect With Me
 
-I use GitHub to document my projects, experiment with new technologies, and build software while continuously improving my development skills.
-
----
-
-## 🤝 Let's Connect
-
-**LinkedIn:** www.linkedin.com/in/ayush-negi-exe
-
-**Email:** mailto:ayushnegiexe@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-negi-exe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayushnegiexe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### Building. Learning. Improving.
+<h3 align="center">✨ Building. Learning. Improving.</h3>
