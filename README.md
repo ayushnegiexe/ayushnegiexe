@@ -1,7 +1,5 @@
 <!-- Minimal Dark Banner -->
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.21b987d2-93b8-4d83-9b1c-87a980e5e642.png" alt="Ayush Negi Banner" width="100%">
-</p>
+
 
 <h1 align="center">Hey, I'm Ayush Negi 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI & Software Engineering</h3>
